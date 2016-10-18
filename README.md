@@ -13,3 +13,5 @@
 [Lecture 6](https://github.com/core-methods-in-edm/Lecture-Slides/blob/master/HUDK4050-Lecture%206.pdf)
 
 [Lecture 7](https://github.com/core-methods-in-edm/Lecture-Slides/blob/master/HUDK4050-Lecture%207.pdf)
+
+[Lecture 9](https://github.com/core-methods-in-edm/Lecture-Slides/blob/master/HUDK4050-Lecture%209.pdf)
