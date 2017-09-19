@@ -6,7 +6,7 @@
 
 [Lecture 3](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L3-Data%20Sources.pdf)
 
-[Lecture 4](https://github.com/core-methods-in-edm/Lecture-Slides/blob/master/HUDK4050-Lecture%204.pdf)
+[Lecture 4](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L4-Ethics-Analytic%20Strategy.pdf)
 
 [Lecture 5](https://github.com/core-methods-in-edm/Lecture-Slides/blob/master/HUDK4050-Lecture%205.pdf)
 
