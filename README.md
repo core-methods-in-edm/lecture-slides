@@ -14,6 +14,8 @@
 
 [Lecture 7](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L7-Wrangling2.pdf)
 
+[Lecure 8](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L8-Visualization.pdf)
+
 [Lecture 9](https://github.com/core-methods-in-edm/Lecture-Slides/blob/master/HUDK4050-Lecture%209.pdf)
 
 [Lecture 10](https://github.com/core-methods-in-edm/Lecture-Slides/blob/master/HUDK4050-Lecture%2010.pdf)
