@@ -22,7 +22,7 @@
 
 [Lecture 11](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L11-iGraph.pdf)
 
-[Lecture 13](https://github.com/core-methods-in-edm/Lecture-Slides/blob/master/HUDK4050-Lecture%2013.pdf)
+[Lecture 12](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L12-clustering.pdf)
 
 [Lecture 14](https://github.com/core-methods-in-edm/Lecture-Slides/blob/master/HUDK4050-Lecture%2014.pdf)
 
