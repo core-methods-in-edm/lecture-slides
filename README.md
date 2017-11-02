@@ -26,7 +26,7 @@
 
 [Lecture 13](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L13-stackoverflow.pdf)
 
-[Lecture 15](https://github.com/core-methods-in-edm/Lecture-Slides/blob/master/HUDK4050-Lecture%2015.pdf)
+[Lecture 14](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L14-PCA.pdf)
 
 [Lecture 16](https://github.com/core-methods-in-edm/Lecture-Slides/blob/master/HUDK4050-Lecture%2016.pdf)
 
