@@ -34,4 +34,4 @@
 
 [Lecture 18](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L18-Prediction.pdf)
 
-[Leture 23](https://github.com/core-methods-in-edm/Lecture-Slides/blob/master/HUDK4050-Lecture%2023.pdf)
+[Leture 19](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L19-PredictionII.pdf)
