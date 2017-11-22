@@ -35,3 +35,5 @@
 [Lecture 18](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L18-Prediction.pdf)
 
 [Leture 19](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L19-PredictionII.pdf)
+
+[Lecture 20](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L20-CrossValidation.pdf)
