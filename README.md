@@ -10,7 +10,7 @@
 
 [Lecture 5](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405018-L5-Wrangling1.pdf)
 
-[Lecture 6](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405018-L6-Wrangling1.pdf)
+[Lecture 6](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405018-L6-Wrangling2%20.pdf)
 
 [Lecture 7](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L7-Wrangling2.pdf)
 
