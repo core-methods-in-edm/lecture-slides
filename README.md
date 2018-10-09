@@ -18,7 +18,7 @@
 
 [Lecture 9](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405018-L9-Visualization%20II.pdf)
 
-[Lecture 10](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L10-SNA.pdf)
+[Lecture 10](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405018-L10-Test-SNA.pdf)
 
 [Lecture 11](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L11-iGraph.pdf)
 
