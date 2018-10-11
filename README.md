@@ -20,7 +20,7 @@
 
 [Lecture 10](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405018-L10-Test-SNA.pdf)
 
-[Lecture 11](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L11-iGraph.pdf)
+[Lecture 11](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405018-L11-SNA.pdf)
 
 [Lecture 12](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L12-clustering.pdf)
 
