@@ -2,7 +2,7 @@
 
 [Lecture 1](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-Lecture%201-Intro.pdf)
 
-[Lecture 2](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L2-Git.pdf)
+[Lecture 2](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L2-Git.pdf)
 
 [Lecture 3](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405018-L3-Data%20Sources.pdf)
 
