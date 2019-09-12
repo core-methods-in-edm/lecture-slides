@@ -4,7 +4,7 @@
 
 [Lecture 2](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L2-Git.pdf)
 
-[Lecture 3](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405018-L3-Data%20Sources.pdf)
+[Lecture 3](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L3-Data%20Sources.pdf)
 
 [Lecture 4](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L4-Randomization-Ethics-Analytic%20Strategy%20copy.pdf)
 
