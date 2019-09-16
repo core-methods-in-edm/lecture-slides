@@ -1,41 +1,41 @@
 # Lecture-Slides
 
-[Lecture 1](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-Lecture%201-Intro.pdf)
+[Lecture 1](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L1-Intro.pdf)
 
 [Lecture 2](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L2-Git.pdf)
 
 [Lecture 3](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L3-Data%20Sources.pdf)
 
-[Lecture 4](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L4-Randomization-Ethics-Analytic%20Strategy%20copy.pdf)
+[Lecture 4]()
 
-[Lecture 5](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405018-L5-Wrangling1.pdf)
+[Lecture 5]()
 
-[Lecture 6](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405018-L6-Wrangling2%20.pdf)
+[Lecture 6]()
 
-[Lecture 7](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L7-Wrangling2.pdf)
+[Lecture 7]()
 
-[Lecure 8](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405018-L8-Visualization.pdf)
+[Lecure 8]()
 
-[Lecture 9](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405018-L9-Visualization%20II.pdf)
+[Lecture 9]()
 
-[Lecture 10](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405018-L10-Test-SNA.pdf)
+[Lecture 10]()
 
-[Lecture 11](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405018-L11-SNA.pdf)
+[Lecture 11]()
 
-[Lecture 12](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L12-clustering.pdf)
+[Lecture 12]()
 
-[Lecture 13](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L13-stackoverflow.pdf)
+[Lecture 13]()
 
-[Lecture 14](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L14-PCA.pdf)
+[Lecture 14]()
 
-[Lecture 16](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L16-Qmatrix.pdff)
+[Lecture 16]()
 
-[Lecture 17](https://github.com/core-methods-in-edm/Lecture-Slides/blob/master/HUDK4050-Lecture%2017.pdf)
+[Lecture 17]()
 
-[Lecture 18](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L18-Prediction.pdf)
+[Lecture 18]()
 
-[Lecture 19](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L19-PredictionII.pdf)
+[Lecture 19]()
 
-[Lecture 20](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L20-CrossValidation.pdf)  
+[Lecture 20]()  
 
-[Lecture 21](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK4050-L21-Diagnostics.pdf)
+[Lecture 21]()
