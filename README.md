@@ -6,7 +6,7 @@
 
 [Lecture 3](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L3-Data%20Sources.pdf)
 
-[Lecture 4]()
+[Lecture 4](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L4-Zotero-Analytic%20Strategy.pdf)
 
 [Lecture 5]()
 
