@@ -8,7 +8,7 @@
 
 [Lecture 4](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L4-Zotero-Analytic%20Strategy.pdf)
 
-[Lecture 5]()
+[Lecture 5](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L5-Wrangling1.pdf)
 
 [Lecture 6]()
 
