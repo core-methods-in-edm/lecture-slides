@@ -12,7 +12,7 @@
 
 [Lecture 6](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L6-Wrangling2.pdf)
 
-[Lecture 7]()
+[Lecture 7](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L7-Visualization1.pdf)
 
 [Lecure 8]()
 
