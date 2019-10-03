@@ -14,7 +14,7 @@
 
 [Lecture 7](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L7-Visualization1.pdf)
 
-[Lecure 8]()
+[Lecure 8](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L8-Visualization2.pdf)
 
 [Lecture 9]()
 
