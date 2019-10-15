@@ -20,7 +20,7 @@
 
 [Lecture 10](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L10-iGraph%20Syntax.pdf)
 
-[Lecture 11]()
+[Lecture 11](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L12-Clustering2.pdf)
 
 [Lecture 12]()
 
