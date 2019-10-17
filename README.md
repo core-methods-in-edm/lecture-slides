@@ -24,7 +24,7 @@
 
 [Lecture 12](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L12-Clustering2.pdf)
 
-[Lecture 13]()
+[Lecture 13](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L13-Clustering3-SO.pdf)
 
 [Lecture 14]()
 
