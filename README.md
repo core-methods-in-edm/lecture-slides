@@ -28,7 +28,7 @@
 
 [Lecture 14]()
 
-[Lecture 16]()
+[Lecture 15](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L15-Feedback.pdf)
 
 [Lecture 17]()
 
