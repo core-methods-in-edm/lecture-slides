@@ -30,6 +30,8 @@
 
 [Lecture 15](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L15-Feedback.pdf)
 
+[Lecture 16](https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L16-Qmatrix.pdf)
+
 [Lecture 17]()
 
 [Lecture 18]()
