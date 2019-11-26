@@ -38,6 +38,6 @@
 
 [Lecture 19]()
 
-[Lecture 20]()  
+[Lecture 20]https://github.com/core-methods-in-edm/lecture-slides/blob/master/HUDK405019-L20-Recap.pdf)  
 
 [Lecture 21]()
